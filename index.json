@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-06-20T21:04:49.197476Z",
+  "repo": "dletniev-cmd/musicletoo",
+  "total": 3,
+  "bugs": [
+    {
+      "id": "n9605",
+      "type": "bug",
+      "kind": "visual",
+      "priority": "high",
+      "status": "open",
+      "title": "что-то с качеством обложек в коллекции",
+      "created": 1781989386771,
+      "labels": [
+        "android"
+      ],
+      "shots_count": 1
+    },
+    {
+      "id": "n3488",
+      "type": "bug",
+      "kind": "visual",
+      "priority": "med",
+      "status": "open",
+      "title": "скругления обложек мёда немного меньше",
+      "created": 1781989319818,
+      "labels": [],
+      "shots_count": 3
+    },
+    {
+      "id": "n5310",
+      "type": "bug",
+      "kind": "visual",
+      "priority": "med",
+      "status": "open",
+      "title": "баги в открытом плейлисте",
+      "created": 1781988332639,
+      "labels": [
+        "android"
+      ],
+      "shots_count": 2
+    }
+  ]
+}

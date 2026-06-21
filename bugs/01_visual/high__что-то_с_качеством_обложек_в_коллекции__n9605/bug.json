@@ -1,0 +1,16 @@
+{
+  "id": "n9605",
+  "type": "bug",
+  "kind": "visual",
+  "priority": "high",
+  "status": "open",
+  "title": "что-то с качеством обложек в коллекции",
+  "desc": "почему на экране коллекции у плейлиста обложка ниже качества, а при открытии качество нормальное",
+  "steps": [],
+  "labels": [
+    "android"
+  ],
+  "repo": "dletniev-cmd/musicletoo",
+  "created": 1781989386771,
+  "created_iso": "2026-06-20T21:03:06.771Z"
+}
